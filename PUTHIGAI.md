@@ -1,26 +1,40 @@
+![image](https://user-images.githubusercontent.com/105497741/177157066-bb2968d8-b706-4c77-a379-baa6cf5e6917.png)
 
-Tabs : 
+# Tabs : 
 1.	Home 
 2.	About us 
 3.	Holistic Wellness 
 4.	Sustainable Living 
 5.	Spiritual Enhancement 
-Home 
+
+# Home 
+
 1.	Banner (6 Banners Scrolling: Reset Program Title, Detox Therapy, Yoga Therapy, Diet Therapy, Corporate Wellness, Child Development-Princess) 
 2.	Our Services (4 Tabs : Detox Therapy, Diet Therapy, Yoga Therapy, Nature cure Practices) 
 3.	Reset Program Registration
+
 a.	Introduction 
 b.	Registration enquiry 
 c.	Program Prospectus : PDF Download 
-About Us 
+
+# About Us 
+
 1.	About Uyirmei Content - Content Available below
 2.	3 Tabs -  Just the Tabs and linking it with read more link
-a.	Holistic Wellness 
-b.	Sustainable Living 
-c.	Spiritual Enhancement
+
+           a. Holistic Wellness 
+
+           b. Sustainable Living 
+
+           c. Spiritual Enhancement
+
 3.	Indian Yoga Association – Content Available below, IYA Logo available in the drive
-4.	Trainer Profile: Subhavahini Seetharaman  - About me is available below, my profile pointers as per the trainer profile in drive 
-Holistic Wellness  
+4.	Trainer Profile: Subhavahini Seetharaman  - About me is available below, 
+
+##### my profile pointers as per the trainer profile in drive 
+
+# Holistic Wellness  
+
 1.	Our Expertise – Read More is not required. We will just put it in tabs. No content  
 2.	Sub Tab : Detox Therapy – Content Available below 
 3.	Sub Tab : Diet Therapy– Content Available below 
@@ -28,7 +42,9 @@ Holistic Wellness
 5.	Sub Tab : Nature cure Practices – Content Available below 
 6.	Sub Tab : Reverse Diabetes – Content Available below 
 7.	Special Programs Tab (Corporate Wellness, Child Development, Women Empowerment)  -   Corporate Wellness Photos are in drive, Child development feedback videos are in drive, Princess profile is available in drive. No detailed information required. Only some videos and photos to be shared in page as common special programs 
-Spiritual Enhancement - Content Available below
+
+# Spiritual Enhancement - Content Available below
+
 Home 
 
 
